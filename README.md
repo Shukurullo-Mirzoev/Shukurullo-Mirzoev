@@ -1,6 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shukurullo-Mirzoev&label=Profile%20views&color=0e75b6&style=flat" alt="Shukurullo-Mirzoev" /> </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">, I'm Shukurullo Mirzoev</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">, I'm Shukurullo Mirzoev</h1>  <br />
+
+🌐 My social media profile
+
+
+<a href="https://www.youtube.com/c/AzizbekKhabibullaev" target="_blank">
+
+
+
 <h3 align="center">Volunteer programmer from Tajikistan.</h3> 
 
 <h3 align="left">Languages and Tools:</h3>
