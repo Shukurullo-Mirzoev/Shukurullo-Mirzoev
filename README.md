@@ -7,6 +7,7 @@
 
 <a href="https://www.youtube.com/@Shukurullo.Mirzoev" target="_blank">
     <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
+    <br />
     
 <a href="https://t.me/Shukurullo_Mirzoev" target="_blank">
     <img src="https://e7.pngegg.com/pngimages/172/54/png-clipart-telegram-encapsulated-postscript-transfer-blue-angle.png width="30px">
