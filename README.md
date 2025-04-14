@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://t.me/Shukurullo_Mirzoev" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30px">
+    <img src="https://www.freeiconspng.com/img/6248 width="30px">
 </a>
 
 <a href="https://www.linkedin.com/in/shukurullo-mirzoev/" target="_blank">
