@@ -7,13 +7,15 @@
 
 <a href="https://www.youtube.com/@Shukurullo.Mirzoev" target="_blank">
     <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
-    
-<a href="https://t.me/Shukurullo_Mirzoev" target = "_blank">
-    <img src="https://icon2.cleanpng.com/20180715/icy/aavgncyo4.webp width="30px">
+</a>
+
+<a href="https://t.me/Shukurullo_Mirzoev" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30px">
+</a>
 
 <a href="https://www.linkedin.com/in/shukurullo-mirzoev/" target="_blank">
-    <img src="https://www.freeiconspng.com/img/31458" width="30px">
-    
+    <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="30px">
+</a>
 
 
 <h3 align="center">Volunteer programmer from Tajikistan.</h3> 
