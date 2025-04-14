@@ -6,6 +6,8 @@
 
 
 <a href="https://www.youtube.com/c/AzizbekKhabibullaev" target="_blank">
+    <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
+
 
 
 
