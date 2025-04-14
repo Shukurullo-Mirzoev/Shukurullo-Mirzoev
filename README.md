@@ -9,7 +9,7 @@
     <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
     
 <a href="https://t.me/Shukurullo_Mirzoev" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Ftelegram-logo.html&psig=AOvVaw1TThwDzVuvw1UPGsjT0nN9&ust=1744726796066000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCjk7Xc14wDFQAAAAAdAAAAABAE" width="30px">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Ftelegram-logo&psig=AOvVaw1TThwDzVuvw1UPGsjT0nN9&ust=1744726796066000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCjk7Xc14wDFQAAAAAdAAAAABAJ" width="30px">
 
 
 
