@@ -96,4 +96,4 @@
 
 - 📍 &nbsp; Current location: Tajikistan Khujand
 - 📝 &nbsp; 3rd year student
-- 📩 &nbsp; My email adress: <a href="mailto:shukurullomirzoev2004@gmail.com">shukurullomirzoev2004@gmail.com</a>
+- 📩 &nbsp; My email adress: <a href="mailto: shukurullomirzoev2004@gmail.com">shukurullomirzoev2004@gmail.com</a>
