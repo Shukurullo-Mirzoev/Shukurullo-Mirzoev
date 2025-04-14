@@ -12,7 +12,7 @@
     <img src="https://icon2.cleanpng.com/20180715/icy/aavgncyo4.webp width="30px">
 
 <a href="https://www.linkedin.com/in/shukurullo-mirzoev/" target="_blank">
-    <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
+    <img src="https://www.freeiconspng.com/img/31458" width="30px">
     
 
 
