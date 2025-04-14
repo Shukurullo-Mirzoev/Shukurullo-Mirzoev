@@ -17,6 +17,9 @@
     <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="30px">
 </a>
 
+
+
+
 <h3 align="left"> Languages and tools I know: </h3>
 
 
@@ -91,4 +94,6 @@
 </p>
 
 
-<h3 align="center">Volunteer programmer from Tajikistan.</h3> 
+- 📍 &nbsp; Current location: Tajikistan Khujand
+- 📝 &nbsp; 3rd year student
+- 📩 &nbsp; My email adress:[shukurullomirzoev2004@gmail.com](shukurullomirzoev2004@gmail.com)
