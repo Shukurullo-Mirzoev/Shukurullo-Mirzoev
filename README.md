@@ -24,7 +24,7 @@
 
 
 
-<h3 align="left"> Languages and tools I know: </h3>
+<h3 align="left"> Languages and tools I know: </h3> <br />
 
 
 
@@ -99,6 +99,7 @@
 
 
 </p>
+<br />
 
 
 
